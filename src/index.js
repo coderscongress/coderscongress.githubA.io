@@ -68,7 +68,7 @@ const pdfList = [
 ];
 
 
-/*const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
    
   <React.StrictMode>
@@ -87,7 +87,7 @@ root.render(
 	<div align="center"><table width="80%"><ThumbnailViewer pdfList={pdfList} /></table></div>
     <Footer />
   </React.StrictMode>
-);*/
+);
 
 
 
